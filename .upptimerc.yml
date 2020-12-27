@@ -4,9 +4,9 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: chriscarini.com
-    url: https://chriscarini.com/
+    url: https://chriscarini.com
   - name: blog.chriscarini.com
-    url: https://blog.chriscarini.com/
+    url: https://blog.chriscarini.com
   - name: LinkedIn - Chris Carini
     url: https://www.linkedin.com/in/chrisjcarini
 
