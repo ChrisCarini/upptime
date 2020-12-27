@@ -1,7 +1,8 @@
-owner: ChrisCarini # Your GitHub username
-repo: upptime # Your Github repository name
+owner: ChrisCarini # GitHub username
+repo: upptime # Github repo name
 
-# Add your sites here
+# The sites to check for uptime
+# https://upptime.js.org/docs/configuration/#endpoints
 sites:
   - name: chriscarini.com
     url: https://chriscarini.com
@@ -15,6 +16,8 @@ sites:
 assignees:
   - ChrisCarini
 
+# Configuration options for the static site
+# https://upptime.js.org/docs/configuration/#status-website
 status-website:
 #   # Add your custom domain below, or remove the next line if you don't have a domain
 #   cname: demo.upptime.js.org
@@ -22,13 +25,17 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Chris Carini's Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # To keep the page simple, commenting out the `introTitle` && `introMessage`.
+#  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: "[Powered by open source]($REPO), [powered by Upptime](https://upptime.js.org)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
