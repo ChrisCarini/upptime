@@ -8,8 +8,9 @@ sites:
     url: https://chriscarini.com
   - name: blog.chriscarini.com
     url: https://blog.chriscarini.com
-  - name: LinkedIn - Chris Carini
-    url: https://www.linkedin.com/in/chrisjcarini
+# Commenting out LinkedIn, as it will return a 'bad' status code (HTTP/999) despite being available.
+#  - name: LinkedIn - Chris Carini
+#    url: https://www.linkedin.com/in/chrisjcarini
 
 # Users to assign downtime issues (optional)
 # https://upptime.js.org/docs/configuration/#assignees
