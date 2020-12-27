@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1646,
-    "timeDay": 1646,
-    "timeWeek": 1646,
-    "timeMonth": 1646,
-    "timeYear": 1646,
+    "time": 1677,
+    "timeDay": 1677,
+    "timeWeek": 1677,
+    "timeMonth": 1677,
+    "timeYear": 1677,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "LinkedIn - Chris Carini",
-    "url": "https://www.linkedin.com/in/chrisjcarini",
-    "icon": "https://favicons.githubusercontent.com/www.linkedin.com",
-    "slug": "linked-in-chris-carini",
-    "status": "down",
-    "uptime": "8.07%",
-    "uptimeDay": "8.07%",
-    "uptimeWeek": "8.07%",
-    "uptimeMonth": "8.07%",
-    "uptimeYear": "8.07%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
-    "dailyMinutesDown": {
-      "2020-12-27": 0
-    }
   }
 ]
