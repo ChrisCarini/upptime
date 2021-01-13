@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/chriscarini.com",
     "slug": "chriscarini-com",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1613,
-    "timeDay": 1673,
-    "timeWeek": 1678,
-    "timeMonth": 1613,
-    "timeYear": 1613,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1617,
+    "timeDay": 1705,
+    "timeWeek": 1664,
+    "timeMonth": 1617,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2021-01-07": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 221,
+    "time": 275,
+    "timeDay": 322,
     "timeWeek": 274,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   }
 ]
