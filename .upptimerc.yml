@@ -6,6 +6,8 @@ repo: upptime # Github repo name
 sites:
   - name: chriscarini.com
     url: https://chriscarini.com
+  - name: jetbrains.chriscarini.com
+    url: https://jetbrains.chriscarini.com
   - name: blog.chriscarini.com
     url: https://blog.chriscarini.com
 # Commenting out LinkedIn, as it will return a 'bad' status code (HTTP/999) despite being available.
