@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 1130,
-    "timeDay": 1057,
-    "timeWeek": 973,
-    "timeMonth": 991,
-    "timeYear": 1113,
+    "time": 1129,
+    "timeDay": 622,
+    "timeWeek": 937,
+    "timeMonth": 961,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2021-12-02": 22,
       "2021-11-21": 418,
@@ -42,8 +42,7 @@
       "2021-04-29": 18,
       "2021-04-27": 147,
       "2021-02-12": 57,
-      "2021-01-20": 59,
-      "2021-01-07": 28
+      "2021-01-20": 59
     }
   },
   {
@@ -52,16 +51,16 @@
     "icon": "https://favicons.githubusercontent.com/jetbrains.chriscarini.com",
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 404,
-    "timeDay": 273,
-    "timeWeek": 311,
-    "timeMonth": 298,
-    "timeYear": 404,
+    "uptimeYear": "99.38%",
+    "time": 399,
+    "timeDay": 135,
+    "timeWeek": 290,
+    "timeMonth": 293,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2021-11-21": 417
     }
@@ -72,16 +71,16 @@
     "icon": "https://favicons.githubusercontent.com/skypi.chriscarini.com",
     "slug": "skypi-chriscarini-com",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
-    "time": 460,
-    "timeDay": 417,
-    "timeWeek": 461,
-    "timeMonth": 426,
-    "timeYear": 460,
+    "uptimeYear": "99.39%",
+    "time": 453,
+    "timeDay": 125,
+    "timeWeek": 417,
+    "timeMonth": 416,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2021-11-21": 416
     }
@@ -98,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 327,
-    "timeDay": 358,
-    "timeWeek": 267,
-    "timeMonth": 273,
+    "timeDay": 347,
+    "timeWeek": 278,
+    "timeMonth": 277,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2021-09-03": 51,
