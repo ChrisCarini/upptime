@@ -4,9 +4,9 @@
     "url": "https://chriscarini.com",
     "icon": "https://favicons.githubusercontent.com/chriscarini.com",
     "slug": "chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 908,
     "timeYear": 1117,
     "dailyMinutesDown": {
+      "2022-03-08": 0,
       "2022-01-18": 38,
       "2021-12-02": 22,
       "2021-11-21": 418,
@@ -49,9 +50,9 @@
     "url": "https://jetbrains.chriscarini.com",
     "icon": "https://favicons.githubusercontent.com/jetbrains.chriscarini.com",
     "slug": "jetbrains-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -61,6 +62,7 @@
     "timeMonth": 280,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2022-03-08": 0,
       "2021-11-21": 417
     }
   },
@@ -69,9 +71,9 @@
     "url": "https://skypi.chriscarini.com",
     "icon": "https://favicons.githubusercontent.com/skypi.chriscarini.com",
     "slug": "skypi-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.72%",
@@ -81,6 +83,7 @@
     "timeMonth": 404,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2022-03-08": 0,
       "2022-02-16": 17,
       "2021-11-21": 416
     }
