@@ -6,17 +6,16 @@
     "slug": "chriscarini-com",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.80%",
-    "time": 999,
-    "timeDay": 638,
-    "timeWeek": 731,
-    "timeMonth": 852,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.81%",
+    "time": 998,
+    "timeDay": 694,
+    "timeWeek": 717,
+    "timeMonth": 849,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-03-31": 12,
       "2023-03-28": 20,
       "2023-03-23": 23,
       "2023-03-21": 19,
@@ -36,8 +35,7 @@
       "2022-05-16": 22,
       "2022-05-15": 100,
       "2022-05-12": 68,
-      "2022-04-23": 56,
-      "2022-04-01": 118
+      "2022-04-23": 56
     }
   },
   {
@@ -47,17 +45,16 @@
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.81%",
     "time": 322,
-    "timeDay": 194,
-    "timeWeek": 228,
-    "timeMonth": 392,
+    "timeDay": 256,
+    "timeWeek": 230,
+    "timeMonth": 395,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-03-31": 12,
       "2023-03-28": 20,
       "2023-03-23": 22,
       "2023-03-21": 19,
@@ -79,8 +76,7 @@
       "2022-05-15": 98,
       "2022-05-12": 79,
       "2022-04-23": 40,
-      "2022-04-11": 33,
-      "2022-04-01": 138
+      "2022-04-11": 33
     }
   },
   {
@@ -90,17 +86,16 @@
     "slug": "skypi-chriscarini-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.80%",
-    "time": 464,
-    "timeDay": 210,
-    "timeWeek": 291,
-    "timeMonth": 499,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.81%",
+    "time": 463,
+    "timeDay": 281,
+    "timeWeek": 294,
+    "timeMonth": 504,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2023-03-31": 12,
       "2023-03-28": 19,
       "2023-03-23": 22,
       "2023-03-21": 18,
@@ -124,8 +119,7 @@
       "2022-05-12": 79,
       "2022-05-03": 15,
       "2022-04-23": 40,
-      "2022-04-11": 32,
-      "2022-04-01": 156
+      "2022-04-11": 32
     }
   },
   {
@@ -140,9 +134,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 409,
-    "timeDay": 414,
-    "timeWeek": 319,
-    "timeMonth": 517,
+    "timeDay": 301,
+    "timeWeek": 318,
+    "timeMonth": 521,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2023-03-10": 16,
@@ -154,8 +148,7 @@
       "2022-05-15": 63,
       "2022-05-12": 26,
       "2022-04-11": 32,
-      "2022-04-10": 34,
-      "2022-04-01": 69
+      "2022-04-10": 34
     }
   }
 ]
