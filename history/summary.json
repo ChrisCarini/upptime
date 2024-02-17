@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "91.52%",
-    "time": 1243,
-    "timeDay": 1538,
-    "timeWeek": 1409,
+    "time": 1244,
+    "timeDay": 1217,
+    "timeWeek": 1389,
     "timeMonth": 1816,
     "timeYear": 1288,
     "dailyMinutesDown": {
@@ -69,8 +69,7 @@
       "2023-03-21": 19,
       "2023-03-14": 22,
       "2023-03-13": 75,
-      "2023-03-10": 44,
-      "2023-02-17": 35
+      "2023-03-10": 44
     }
   },
   {
@@ -79,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
-    "uptime": "94.45%",
+    "uptime": "94.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.83%",
     "time": 344,
-    "timeDay": 382,
-    "timeWeek": 315,
-    "timeMonth": 291,
+    "timeDay": 104,
+    "timeWeek": 288,
+    "timeMonth": 286,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2023-12-27": 33,
@@ -148,8 +147,7 @@
       "2023-03-21": 19,
       "2023-03-14": 22,
       "2023-03-12": 17,
-      "2023-03-10": 59,
-      "2023-02-17": 35
+      "2023-03-10": 59
     }
   },
   {
@@ -163,10 +161,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.08%",
-    "time": 465,
-    "timeDay": 449,
-    "timeWeek": 426,
-    "timeMonth": 382,
+    "time": 464,
+    "timeDay": 180,
+    "timeWeek": 382,
+    "timeMonth": 378,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2023-12-27": 23,
@@ -208,8 +206,7 @@
       "2023-03-14": 39,
       "2023-03-13": 16,
       "2023-03-12": 17,
-      "2023-03-10": 31,
-      "2023-02-17": 35
+      "2023-03-10": 31
     }
   },
   {
@@ -223,10 +220,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 347,
-    "timeDay": 484,
-    "timeWeek": 279,
-    "timeMonth": 278,
+    "time": 348,
+    "timeDay": 438,
+    "timeWeek": 305,
+    "timeMonth": 284,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2023-12-27": 32,
