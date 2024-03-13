@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "97.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "91.52%",
-    "time": 1246,
-    "timeDay": 1316,
-    "timeWeek": 1255,
-    "timeMonth": 1212,
+    "time": 1247,
+    "timeDay": 1366,
+    "timeWeek": 1273,
+    "timeMonth": 1210,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2024-03-05": 19,
@@ -69,8 +69,7 @@
       "2023-04-02": 19,
       "2023-03-28": 20,
       "2023-03-23": 23,
-      "2023-03-21": 19,
-      "2023-03-14": 22
+      "2023-03-21": 19
     }
   },
   {
@@ -79,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "87.83%",
+    "uptimeYear": "87.84%",
     "time": 343,
-    "timeDay": 318,
-    "timeWeek": 397,
-    "timeMonth": 298,
+    "timeDay": 225,
+    "timeWeek": 214,
+    "timeMonth": 296,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2024-03-05": 18,
@@ -148,8 +147,7 @@
       "2023-04-02": 18,
       "2023-03-28": 20,
       "2023-03-23": 22,
-      "2023-03-21": 19,
-      "2023-03-14": 22
+      "2023-03-21": 19
     }
   },
   {
@@ -158,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "94.07%",
-    "time": 462,
-    "timeDay": 490,
-    "timeWeek": 331,
+    "time": 461,
+    "timeDay": 341,
+    "timeWeek": 332,
     "timeMonth": 333,
     "timeYear": 476,
     "dailyMinutesDown": {
@@ -206,8 +204,7 @@
       "2023-04-02": 18,
       "2023-03-28": 19,
       "2023-03-23": 22,
-      "2023-03-21": 18,
-      "2023-03-14": 39
+      "2023-03-21": 18
     }
   },
   {
@@ -222,10 +219,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 344,
-    "timeDay": 141,
-    "timeWeek": 289,
-    "timeMonth": 286,
-    "timeYear": 321,
+    "timeDay": 248,
+    "timeWeek": 270,
+    "timeMonth": 287,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2023-12-27": 32,
       "2023-12-25": 162,
