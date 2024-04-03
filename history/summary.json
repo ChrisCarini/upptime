@@ -10,11 +10,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "91.54%",
-    "time": 1284,
-    "timeDay": 2317,
-    "timeWeek": 2219,
-    "timeMonth": 1637,
-    "timeYear": 1367,
+    "time": 1286,
+    "timeDay": 2566,
+    "timeWeek": 2240,
+    "timeMonth": 1670,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2024-03-27": 34,
       "2024-03-13": 18,
@@ -65,8 +65,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1069,
       "2023-04-21": 21,
-      "2023-04-07": 17,
-      "2023-04-04": 21
+      "2023-04-07": 17
     }
   },
   {
@@ -79,12 +78,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "87.84%",
+    "uptimeYear": "87.85%",
     "time": 353,
-    "timeDay": 539,
-    "timeWeek": 441,
-    "timeMonth": 459,
-    "timeYear": 367,
+    "timeDay": 465,
+    "timeWeek": 442,
+    "timeMonth": 463,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2024-03-27": 34,
       "2024-03-13": 18,
@@ -140,8 +139,7 @@
       "2023-10-06": 300,
       "2023-08-19": 390,
       "2023-04-21": 21,
-      "2023-04-19": 23,
-      "2023-04-04": 21
+      "2023-04-19": 23
     }
   },
   {
@@ -150,14 +148,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "94.09%",
-    "time": 462,
-    "timeDay": 581,
-    "timeWeek": 471,
+    "time": 463,
+    "timeDay": 496,
+    "timeWeek": 469,
     "timeMonth": 401,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -194,8 +192,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 408,
       "2023-04-21": 21,
-      "2023-04-19": 19,
-      "2023-04-04": 20
+      "2023-04-19": 19
     }
   },
   {
@@ -209,10 +206,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 342,
-    "timeDay": 194,
-    "timeWeek": 251,
-    "timeMonth": 278,
+    "time": 341,
+    "timeDay": 129,
+    "timeWeek": 236,
+    "timeMonth": 274,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-12-27": 32,
