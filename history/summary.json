@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1568,
-    "timeDay": 1138,
-    "timeWeek": 1385,
-    "timeMonth": 1414,
-    "timeYear": 1605,
+    "time": 1569,
+    "timeDay": 1334,
+    "timeWeek": 1400,
+    "timeMonth": 1422,
+    "timeYear": 1604,
     "dailyMinutesDown": {
       "2024-09-28": 22,
       "2024-09-03": 47,
@@ -26,8 +26,7 @@
       "2024-02-29": 1,
       "2024-01-24": 19,
       "2023-12-27": 34,
-      "2023-12-25": 163,
-      "2023-11-02": 205
+      "2023-12-25": 163
     }
   },
   {
@@ -36,15 +35,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.45%",
+    "uptimeYear": "91.72%",
     "time": 334,
-    "timeDay": 243,
-    "timeWeek": 269,
-    "timeMonth": 255,
+    "timeDay": 303,
+    "timeWeek": 273,
+    "timeMonth": 260,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-09-03": 16,
@@ -83,8 +82,7 @@
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
-      "2023-11-03": 1440,
-      "2023-11-02": 1440
+      "2023-11-03": 1440
     }
   },
   {
@@ -99,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 435,
-    "timeDay": 337,
-    "timeWeek": 326,
-    "timeMonth": 340,
+    "timeDay": 440,
+    "timeWeek": 343,
+    "timeMonth": 346,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-09-03": 15,
@@ -112,8 +110,7 @@
       "2024-03-01": 83,
       "2023-12-27": 23,
       "2023-12-25": 162,
-      "2023-12-23": 17,
-      "2023-11-02": 96
+      "2023-12-23": 17
     }
   },
   {
@@ -128,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 349,
-    "timeDay": 265,
-    "timeWeek": 298,
-    "timeMonth": 893,
+    "timeDay": 289,
+    "timeWeek": 304,
+    "timeMonth": 891,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2023-12-27": 32,
