@@ -12,6 +12,15 @@ sites:
     url: https://skypi.chriscarini.com
   - name: blog.chriscarini.com
     url: https://blog.chriscarini.com
+  
+  - name: flask-over-fastcgi.demo.chriscarini.com
+    url: https://flask-over-fastcgi.demo.chriscarini.com
+  - name: flask-over-mod-rewrite.demo.chriscarini.com
+    url: https://flask-over-mod-rewrite.demo.chriscarini.com
+  - name: fastapi-over-fastcgi.demo.chriscarini.com
+    url: https://fastapi-over-fastcgi.demo.chriscarini.com
+  - name: fastapi-over-mod-rewrite.demo.chriscarini.com
+    url: https://fastapi-over-mod-rewrite.demo.chriscarini.com
 # Commenting out LinkedIn, as it will return a 'bad' status code (HTTP/999) despite being available.
 #  - name: LinkedIn - Chris Carini
 #    url: https://www.linkedin.com/in/chrisjcarini
