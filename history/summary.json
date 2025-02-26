@@ -131,18 +131,20 @@
     "url": "https://flask-over-mod-rewrite.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask-over-mod-rewrite.demo.chriscarini.com.ico",
     "slug": "flask-over-mod-rewrite-demo-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 337,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 236,
+    "timeDay": 348,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   },
   {
     "name": "fastapi-over-fastcgi.demo.chriscarini.com",
@@ -167,17 +169,19 @@
     "url": "https://fastapi-over-mod-rewrite.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-mod-rewrite.demo.chriscarini.com.ico",
     "slug": "fastapi-over-mod-rewrite-demo-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 276,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 314,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   }
 ]
