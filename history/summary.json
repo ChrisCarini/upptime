@@ -148,7 +148,7 @@
     "timeMonth": 266,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-08-18": 67,
+      "2025-08-18": 422,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -329,9 +329,9 @@
     "url": "https://fastapi-over-fastcgi.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -341,6 +341,7 @@
     "timeMonth": 845,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-06-03": 17,
       "2025-05-28": 22,
       "2025-04-02": 39,
@@ -365,7 +366,7 @@
     "timeMonth": 261,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-08-18": 67,
+      "2025-08-18": 422,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
