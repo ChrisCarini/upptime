@@ -104,14 +104,14 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "68.22%",
-    "uptimeWeek": "60.69%",
-    "uptimeMonth": "87.72%",
+    "uptimeDay": "70.30%",
+    "uptimeWeek": "61.28%",
+    "uptimeMonth": "87.81%",
     "uptimeYear": "98.98%",
     "time": 383,
-    "timeDay": 422,
+    "timeDay": 426,
     "timeWeek": 412,
     "timeMonth": 409,
     "timeYear": 395,
@@ -125,7 +125,7 @@
       "2025-09-09": 842,
       "2025-09-08": 1093,
       "2025-09-07": 756,
-      "2025-09-06": 563
+      "2025-09-06": 524
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 459,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-09-15": 233,
+      "2025-09-15": 292,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 273,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-09-15": 234,
+      "2025-09-15": 293,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
