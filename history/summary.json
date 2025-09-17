@@ -13,8 +13,8 @@
     "time": 1546,
     "timeDay": 1328,
     "timeWeek": 1189,
-    "timeMonth": 1427,
-    "timeYear": 1532,
+    "timeMonth": 1418,
+    "timeYear": 1533,
     "dailyMinutesDown": {
       "2025-09-16": 22,
       "2025-09-11": 25,
@@ -53,7 +53,7 @@
     "time": 280,
     "timeDay": 301,
     "timeWeek": 270,
-    "timeMonth": 330,
+    "timeMonth": 331,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-09-11": 24,
@@ -83,7 +83,7 @@
     "time": 390,
     "timeDay": 393,
     "timeWeek": 336,
-    "timeMonth": 574,
+    "timeMonth": 580,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-09-11": 24,
@@ -105,17 +105,17 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "64.05%",
+    "uptimeDay": "64.04%",
     "uptimeWeek": "73.18%",
-    "uptimeMonth": "89.99%",
+    "uptimeMonth": "90.04%",
     "uptimeYear": "99.17%",
     "time": 384,
-    "timeDay": 400,
+    "timeDay": 405,
     "timeWeek": 415,
     "timeMonth": 409,
-    "timeYear": 396,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-09-17": 516,
       "2025-09-16": 368,
@@ -126,7 +126,7 @@
       "2025-09-11": 163,
       "2025-09-10": 717,
       "2025-09-09": 842,
-      "2025-09-08": 126
+      "2025-09-08": 102
     }
   },
   {
@@ -143,7 +143,7 @@
     "time": 470,
     "timeDay": 536,
     "timeWeek": 415,
-    "timeMonth": 468,
+    "timeMonth": 466,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-08-25": 85,
@@ -166,10 +166,10 @@
     "time": 296,
     "timeDay": 302,
     "timeWeek": 246,
-    "timeMonth": 458,
+    "timeMonth": 463,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-09-17": 1401,
+      "2025-09-17": 1407,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -389,7 +389,7 @@
     "time": 849,
     "timeDay": 773,
     "timeWeek": 788,
-    "timeMonth": 838,
+    "timeMonth": 839,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-09-11": 23,
@@ -417,10 +417,10 @@
     "time": 259,
     "timeDay": 272,
     "timeWeek": 239,
-    "timeMonth": 276,
+    "timeMonth": 274,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-09-17": 1401,
+      "2025-09-17": 1407,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
