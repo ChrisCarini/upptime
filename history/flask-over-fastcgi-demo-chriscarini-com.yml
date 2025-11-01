@@ -1,7 +1,7 @@
 url: https://flask-over-fastcgi.demo.chriscarini.com
-status: down
-code: 500
-responseTime: 1135
-lastUpdated: 2025-11-01T19:42:38.240Z
+status: up
+code: 200
+responseTime: 704
+lastUpdated: 2025-11-01T19:50:46.067Z
 startTime: 2025-02-21T18:23:07.209Z
 generator: Upptime <https://github.com/upptime/upptime>
