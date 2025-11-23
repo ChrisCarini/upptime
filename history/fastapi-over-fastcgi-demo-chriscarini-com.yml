@@ -1,7 +1,7 @@
 url: https://fastapi-over-fastcgi.demo.chriscarini.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-23T11:01:49.246Z
+status: up
+code: 200
+responseTime: 722
+lastUpdated: 2025-11-23T11:09:53.954Z
 startTime: 2025-02-21T18:23:08.392Z
 generator: Upptime <https://github.com/upptime/upptime>
