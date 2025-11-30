@@ -4,9 +4,9 @@
     "url": "https://chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/chriscarini.com.ico",
     "slug": "chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "99.25%",
+    "uptimeDay": "99.24%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1300,
     "timeYear": 1471,
     "dailyMinutesDown": {
+      "2025-11-30": 0,
       "2025-11-29": 11,
       "2025-11-24": 16,
       "2025-11-21": 17,
@@ -194,7 +195,7 @@
     "timeMonth": 249,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-11-30": 11,
+      "2025-11-30": 202,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -524,7 +525,7 @@
     "timeMonth": 245,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-11-30": 11,
+      "2025-11-30": 202,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
