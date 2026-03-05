@@ -10,11 +10,11 @@
     "uptimeWeek": "97.23%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.54%",
-    "time": 1353,
-    "timeDay": 1034,
-    "timeWeek": 1226,
-    "timeMonth": 1219,
-    "timeYear": 1324,
+    "time": 1354,
+    "timeDay": 1046,
+    "timeWeek": 1211,
+    "timeMonth": 1221,
+    "timeYear": 1322,
     "dailyMinutesDown": {
       "2026-03-04": 38,
       "2026-03-02": 24,
@@ -87,8 +87,7 @@
       "2025-05-28": 25,
       "2025-05-09": 16,
       "2025-04-02": 41,
-      "2025-03-25": 77,
-      "2025-03-05": 37
+      "2025-03-25": 77
     }
   },
   {
@@ -97,15 +96,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "97.37%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.61%",
     "time": 288,
-    "timeDay": 259,
-    "timeWeek": 247,
-    "timeMonth": 277,
+    "timeDay": 303,
+    "timeWeek": 248,
+    "timeMonth": 279,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2026-03-04": 38,
@@ -167,8 +166,7 @@
       "2025-08-24": 6,
       "2025-06-03": 18,
       "2025-05-28": 24,
-      "2025-04-02": 40,
-      "2025-03-05": 36
+      "2025-04-02": 40
     }
   },
   {
@@ -183,9 +181,9 @@
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.48%",
     "time": 377,
-    "timeDay": 379,
-    "timeWeek": 345,
-    "timeMonth": 358,
+    "timeDay": 395,
+    "timeWeek": 346,
+    "timeMonth": 360,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2026-03-04": 37,
@@ -245,8 +243,7 @@
       "2025-06-23": 866,
       "2025-06-03": 17,
       "2025-05-28": 24,
-      "2025-04-02": 40,
-      "2025-03-05": 36
+      "2025-04-02": 40
     }
   },
   {
@@ -261,9 +258,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.17%",
     "time": 387,
-    "timeDay": 264,
-    "timeWeek": 290,
-    "timeMonth": 360,
+    "timeDay": 239,
+    "timeWeek": 284,
+    "timeMonth": 358,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2026-02-26": 26,
@@ -297,10 +294,10 @@
     "uptimeWeek": "97.39%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.70%",
-    "time": 463,
-    "timeDay": 430,
-    "timeWeek": 415,
-    "timeMonth": 497,
+    "time": 464,
+    "timeDay": 449,
+    "timeWeek": 426,
+    "timeMonth": 502,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2026-03-04": 36,
@@ -366,12 +363,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 277,
-    "timeDay": 217,
-    "timeWeek": 263,
-    "timeMonth": 244,
+    "timeDay": 305,
+    "timeWeek": 242,
+    "timeMonth": 245,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-03-04": 1187,
+      "2026-03-05": 14,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -734,8 +732,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -750,10 +747,10 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.66%",
     "time": 865,
-    "timeDay": 842,
-    "timeWeek": 829,
-    "timeMonth": 866,
-    "timeYear": 869,
+    "timeDay": 855,
+    "timeWeek": 831,
+    "timeMonth": 867,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2026-03-04": 34,
       "2026-03-02": 22,
@@ -807,8 +804,7 @@
       "2025-06-03": 17,
       "2025-05-28": 22,
       "2025-04-02": 39,
-      "2025-03-25": 27,
-      "2025-03-05": 35
+      "2025-03-25": 27
     }
   },
   {
@@ -823,12 +819,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 253,
-    "timeDay": 265,
+    "timeDay": 340,
     "timeWeek": 264,
-    "timeMonth": 236,
-    "timeYear": 253,
+    "timeMonth": 240,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-03-04": 1188,
+      "2026-03-05": 14,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1191,8 +1188,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   }
 ]
