@@ -4,11 +4,11 @@
     "url": "https://chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/chriscarini.com.ico",
     "slug": "chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "98.20%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "99.49%",
     "time": 1340,
     "timeDay": 1355,
@@ -16,7 +16,7 @@
     "timeMonth": 1157,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2026-04-19": 83,
+      "2026-04-19": 86,
       "2026-04-18": 131,
       "2026-04-17": 89,
       "2026-04-15": 69,
@@ -82,8 +82,7 @@
       "2025-12-18": 34,
       "2025-12-17": 22,
       "2025-12-16": 16,
-      "2025-12-15": 52,
-      "2025-12-14": 6
+      "2025-12-15": 36
     }
   },
   {
@@ -91,10 +90,10 @@
     "url": "https://jetbrains.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "96.33%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "96.30%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.50%",
     "time": 291,
@@ -103,7 +102,7 @@
     "timeMonth": 268,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2026-04-19": 81,
+      "2026-04-19": 84,
       "2026-04-18": 130,
       "2026-04-17": 65,
       "2026-04-15": 69,
@@ -172,8 +171,7 @@
       "2025-12-14": 45,
       "2025-12-13": 44,
       "2025-12-11": 31,
-      "2025-12-10": 19,
-      "2025-12-09": 16
+      "2025-12-10": 19
     }
   },
   {
@@ -181,19 +179,19 @@
     "url": "https://skypi.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.51%",
-    "time": 377,
+    "time": 378,
     "timeDay": 337,
     "timeWeek": 325,
     "timeMonth": 329,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2026-04-19": 81,
+      "2026-04-19": 83,
       "2026-04-18": 128,
       "2026-04-17": 63,
       "2026-04-15": 68,
@@ -265,8 +263,7 @@
       "2025-12-01": 17,
       "2025-11-24": 15,
       "2025-11-21": 16,
-      "2025-11-17": 17,
-      "2025-11-15": 20
+      "2025-11-17": 17
     }
   },
   {
@@ -322,10 +319,10 @@
     "url": "https://flask-over-fastcgi.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "96.65%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "96.63%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.53%",
     "time": 467,
@@ -334,7 +331,7 @@
     "timeMonth": 507,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2026-04-19": 79,
+      "2026-04-19": 81,
       "2026-04-18": 103,
       "2026-04-17": 63,
       "2026-04-15": 68,
@@ -425,7 +422,7 @@
     "timeMonth": 238,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-04-19": 666,
+      "2026-04-19": 1241,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -797,10 +794,10 @@
     "url": "https://fastapi-over-fastcgi.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "96.49%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.50%",
     "time": 866,
@@ -809,7 +806,7 @@
     "timeMonth": 866,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2026-04-19": 78,
+      "2026-04-19": 79,
       "2026-04-18": 125,
       "2026-04-17": 61,
       "2026-04-15": 67,
@@ -882,8 +879,7 @@
       "2025-09-11": 23,
       "2025-08-25": 85,
       "2025-08-24": 4,
-      "2025-08-18": 29,
-      "2025-06-03": 17
+      "2025-08-18": 29
     }
   },
   {
@@ -903,7 +899,7 @@
     "timeMonth": 239,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-04-19": 666,
+      "2026-04-19": 1241,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
