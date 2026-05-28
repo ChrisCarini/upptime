@@ -12,7 +12,7 @@
     "uptimeYear": "99.47%",
     "time": 1330,
     "timeDay": 1222,
-    "timeWeek": 1159,
+    "timeWeek": 1177,
     "timeMonth": 1136,
     "timeYear": 1236,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
     "uptimeYear": "99.47%",
     "time": 288,
     "timeDay": 263,
-    "timeWeek": 215,
+    "timeWeek": 211,
     "timeMonth": 244,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -189,7 +189,7 @@
     "uptimeYear": "99.47%",
     "time": 374,
     "timeDay": 381,
-    "timeWeek": 267,
+    "timeWeek": 265,
     "timeMonth": 309,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -275,17 +275,17 @@
     "slug": "blog-chriscarini-com",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.27%",
     "time": 390,
     "timeDay": 294,
-    "timeWeek": 335,
+    "timeWeek": 332,
     "timeMonth": 347,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-09-12": 141,
+      "2025-09-12": 164,
       "2025-09-13": 395,
       "2025-09-14": 378,
       "2025-09-15": 481,
@@ -318,8 +318,7 @@
       "2026-05-01": 29,
       "2026-05-07": 140,
       "2026-05-11": 102,
-      "2026-05-12": 64,
-      "2026-05-27": 15
+      "2026-05-12": 64
     }
   },
   {
@@ -335,7 +334,7 @@
     "uptimeYear": "99.49%",
     "time": 471,
     "timeDay": 329,
-    "timeWeek": 518,
+    "timeWeek": 460,
     "timeMonth": 563,
     "timeYear": 473,
     "dailyMinutesDown": {
@@ -431,7 +430,7 @@
     "uptimeYear": "0.00%",
     "time": 270,
     "timeDay": 179,
-    "timeWeek": 168,
+    "timeWeek": 157,
     "timeMonth": 217,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -536,8 +535,8 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2026-05-27": 1414,
+      "2026-05-28": 30,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -815,7 +814,7 @@
     "uptimeYear": "99.49%",
     "time": 876,
     "timeDay": 973,
-    "timeWeek": 839,
+    "timeWeek": 850,
     "timeMonth": 1067,
     "timeYear": 890,
     "dailyMinutesDown": {
@@ -907,11 +906,12 @@
     "uptimeYear": "0.00%",
     "time": 250,
     "timeDay": 225,
-    "timeWeek": 172,
+    "timeWeek": 182,
     "timeMonth": 229,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-05-27": 1414,
+      "2026-05-28": 30,
+      "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1274,8 +1274,7 @@
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
-      "2025-05-29": 1440,
-      "2025-05-28": 1440
+      "2025-05-29": 1440
     }
   }
 ]
