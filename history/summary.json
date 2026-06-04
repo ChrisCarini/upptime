@@ -13,7 +13,7 @@
     "time": 1319,
     "timeDay": 754,
     "timeWeek": 987,
-    "timeMonth": 1054,
+    "timeMonth": 1045,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2025-12-30": 17,
@@ -100,7 +100,7 @@
     "time": 288,
     "timeDay": 353,
     "timeWeek": 262,
-    "timeMonth": 239,
+    "timeMonth": 237,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2025-12-22": 18,
@@ -273,16 +273,16 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.25%",
     "time": 392,
-    "timeDay": 376,
-    "timeWeek": 450,
-    "timeMonth": 358,
+    "timeDay": 323,
+    "timeWeek": 424,
+    "timeMonth": 355,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2025-09-12": 77,
@@ -320,7 +320,7 @@
       "2026-05-11": 102,
       "2026-05-12": 64,
       "2026-05-28": 122,
-      "2026-06-04": 1
+      "2026-06-04": 34
     }
   },
   {
@@ -337,7 +337,7 @@
     "time": 470,
     "timeDay": 576,
     "timeWeek": 412,
-    "timeMonth": 562,
+    "timeMonth": 564,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2025-11-15": 20,
@@ -433,7 +433,7 @@
     "time": 269,
     "timeDay": 295,
     "timeWeek": 200,
-    "timeMonth": 199,
+    "timeMonth": 194,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-09-06": 1426,
@@ -530,7 +530,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2026-06-04": 1376,
+      "2026-06-04": 1409,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -817,7 +817,7 @@
     "time": 876,
     "timeDay": 934,
     "timeWeek": 895,
-    "timeMonth": 1058,
+    "timeMonth": 1062,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2025-12-03": 21,
@@ -909,10 +909,10 @@
     "time": 249,
     "timeDay": 308,
     "timeWeek": 198,
-    "timeMonth": 224,
+    "timeMonth": 223,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-06-04": 1376,
+      "2026-06-04": 1409,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
