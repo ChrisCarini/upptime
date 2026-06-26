@@ -8,11 +8,11 @@
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.68%",
-    "uptimeYear": "96.63%",
+    "uptimeMonth": "65.54%",
+    "uptimeYear": "96.62%",
     "time": 1281,
     "timeDay": 420,
-    "timeWeek": 487,
+    "timeWeek": 484,
     "timeMonth": 935,
     "timeYear": 1208,
     "dailyMinutesDown": {
@@ -82,7 +82,8 @@
       "2026-06-06": 36,
       "2026-06-13": 63,
       "2026-06-14": 30,
-      "2026-06-25": 1416,
+      "2026-06-26": 36,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -108,7 +109,7 @@
     "uptimeYear": "99.46%",
     "time": 288,
     "timeDay": 325,
-    "timeWeek": 272,
+    "timeWeek": 264,
     "timeMonth": 255,
     "timeYear": 290,
     "dailyMinutesDown": {
@@ -198,7 +199,7 @@
     "uptimeYear": "99.47%",
     "time": 377,
     "timeDay": 366,
-    "timeWeek": 369,
+    "timeWeek": 361,
     "timeMonth": 406,
     "timeYear": 381,
     "dailyMinutesDown": {
@@ -289,7 +290,7 @@
     "uptimeYear": "99.24%",
     "time": 392,
     "timeDay": 301,
-    "timeWeek": 280,
+    "timeWeek": 287,
     "timeMonth": 319,
     "timeYear": 401,
     "dailyMinutesDown": {
@@ -345,7 +346,7 @@
     "uptimeYear": "99.48%",
     "time": 474,
     "timeDay": 505,
-    "timeWeek": 402,
+    "timeWeek": 414,
     "timeMonth": 439,
     "timeYear": 470,
     "dailyMinutesDown": {
@@ -439,7 +440,7 @@
     "uptimeYear": "0.00%",
     "time": 267,
     "timeDay": 280,
-    "timeWeek": 249,
+    "timeWeek": 239,
     "timeMonth": 210,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -515,8 +516,8 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2026-06-25": 1416,
+      "2026-06-26": 36,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -817,17 +818,17 @@
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.47%",
     "time": 911,
     "timeDay": 859,
-    "timeWeek": 851,
+    "timeWeek": 850,
     "timeMonth": 1560,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-12-11": 8,
+      "2025-12-11": 37,
       "2025-12-13": 42,
       "2025-12-15": 32,
       "2025-12-17": 19,
@@ -899,8 +900,7 @@
       "2026-05-28": 39,
       "2026-06-08": 54,
       "2026-06-21": 48,
-      "2026-06-24": 23,
-      "2026-06-25": 6
+      "2026-06-24": 23
     }
   },
   {
@@ -916,11 +916,12 @@
     "uptimeYear": "0.00%",
     "time": 248,
     "timeDay": 248,
-    "timeWeek": 251,
+    "timeWeek": 245,
     "timeMonth": 214,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-06-25": 1416,
+      "2026-06-26": 36,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -1283,8 +1284,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2025-06-27": 1440,
-      "2025-06-26": 1440
+      "2025-06-27": 1440
     }
   }
 ]
