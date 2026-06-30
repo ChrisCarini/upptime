@@ -82,7 +82,7 @@
       "2026-06-06": 36,
       "2026-06-13": 63,
       "2026-06-14": 30,
-      "2026-06-30": 33,
+      "2026-06-30": 34,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -107,7 +107,7 @@
     "slug": "jetbrains-chriscarini-com",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "98.26%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.45%",
@@ -186,7 +186,7 @@
       "2026-06-26": 32,
       "2026-06-27": 69,
       "2026-06-28": 66,
-      "2026-06-30": 24
+      "2026-06-30": 25
     }
   },
   {
@@ -196,8 +196,8 @@
     "slug": "skypi-chriscarini-com",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "97.76%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "97.75%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.46%",
     "time": 377,
@@ -342,8 +342,8 @@
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.10%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.48%",
     "time": 469,
@@ -426,7 +426,7 @@
       "2026-06-26": 22,
       "2026-06-27": 60,
       "2026-06-28": 47,
-      "2026-06-30": 15
+      "2026-06-30": 16
     }
   },
   {
@@ -820,8 +820,8 @@
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "19.08%",
-    "uptimeWeek": "87.50%",
+    "uptimeDay": "19.04%",
+    "uptimeWeek": "87.49%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "99.25%",
     "time": 910,
