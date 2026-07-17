@@ -4,17 +4,17 @@
     "url": "https://chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/chriscarini.com.ico",
     "slug": "chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "29.56%",
-    "uptimeYear": "93.07%",
-    "time": 1252,
-    "timeDay": 476,
-    "timeWeek": 652,
-    "timeMonth": 558,
-    "timeYear": 1171,
+    "uptimeYear": "93.06%",
+    "time": 1251,
+    "timeDay": 572,
+    "timeWeek": 653,
+    "timeMonth": 562,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2026-01-29": 22,
       "2026-01-30": 29,
@@ -106,7 +106,7 @@
       "2026-06-15": 445,
       "2026-07-10": 114,
       "2026-07-12": 96,
-      "2026-07-17": 29
+      "2026-07-17": 86
     }
   },
   {
@@ -114,16 +114,16 @@
     "url": "https://jetbrains.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "99.35%",
-    "time": 288,
-    "timeDay": 231,
-    "timeWeek": 270,
-    "timeMonth": 273,
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "99.34%",
+    "time": 287,
+    "timeDay": 215,
+    "timeWeek": 262,
+    "timeMonth": 271,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2026-02-12": 16,
@@ -195,7 +195,7 @@
       "2026-07-07": 241,
       "2026-07-10": 109,
       "2026-07-12": 91,
-      "2026-07-17": 25
+      "2026-07-17": 81
     }
   },
   {
@@ -203,16 +203,16 @@
     "url": "https://skypi.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.38%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.36%",
     "time": 376,
-    "timeDay": 118,
-    "timeWeek": 345,
-    "timeMonth": 347,
+    "timeDay": 175,
+    "timeWeek": 332,
+    "timeMonth": 344,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-02-11": 19,
@@ -285,7 +285,7 @@
       "2026-07-07": 236,
       "2026-07-10": 104,
       "2026-07-12": 86,
-      "2026-07-17": 20
+      "2026-07-17": 76
     }
   },
   {
@@ -349,16 +349,16 @@
     "url": "https://flask-over-fastcgi.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "99.41%",
-    "time": 469,
-    "timeDay": 90,
-    "timeWeek": 453,
-    "timeMonth": 437,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "99.40%",
+    "time": 468,
+    "timeDay": 130,
+    "timeWeek": 422,
+    "timeMonth": 431,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2026-01-01": 46,
@@ -435,7 +435,7 @@
       "2026-07-07": 231,
       "2026-07-10": 99,
       "2026-07-12": 81,
-      "2026-07-17": 15
+      "2026-07-17": 71
     }
   },
   {
@@ -506,7 +506,7 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2026-07-17": 900,
+      "2026-07-17": 957,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -827,15 +827,15 @@
     "url": "https://fastapi-over-fastcgi.demo.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
-    "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "75.81%",
-    "uptimeYear": "97.51%",
+    "status": "up",
+    "uptime": "98.21%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "75.68%",
+    "uptimeYear": "97.50%",
     "time": 917,
-    "timeDay": 746,
-    "timeWeek": 856,
+    "timeDay": 793,
+    "timeWeek": 854,
     "timeMonth": 843,
     "timeYear": 921,
     "dailyMinutesDown": {
@@ -919,7 +919,7 @@
       "2026-07-07": 221,
       "2026-07-10": 90,
       "2026-07-12": 72,
-      "2026-07-17": 5
+      "2026-07-17": 62
     }
   },
   {
@@ -939,7 +939,7 @@
     "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-07-17": 900,
+      "2026-07-17": 957,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
