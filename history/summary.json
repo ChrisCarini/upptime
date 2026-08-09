@@ -293,14 +293,14 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "28.67%",
-    "uptimeWeek": "34.91%",
-    "uptimeMonth": "76.96%",
-    "uptimeYear": "97.61%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "26.24%",
+    "uptimeWeek": "34.26%",
+    "uptimeMonth": "76.75%",
+    "uptimeYear": "97.60%",
     "time": 390,
-    "timeDay": 370,
+    "timeDay": 371,
     "timeWeek": 364,
     "timeMonth": 351,
     "timeYear": 397,
@@ -353,7 +353,7 @@
       "2026-08-06": 514,
       "2026-08-07": 712,
       "2026-08-08": 1230,
-      "2026-08-09": 719
+      "2026-08-09": 808
     }
   },
   {
@@ -495,7 +495,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2026-08-09": 1097,
+      "2026-08-09": 1187,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -951,7 +951,7 @@
     "timeMonth": 196,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-08-09": 1097,
+      "2026-08-09": 1188,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
