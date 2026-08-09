@@ -293,17 +293,17 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "29.57%",
-    "uptimeWeek": "34.92%",
-    "uptimeMonth": "77.05%",
-    "uptimeYear": "97.62%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "26.89%",
+    "uptimeWeek": "34.59%",
+    "uptimeMonth": "76.96%",
+    "uptimeYear": "97.61%",
     "time": 389,
-    "timeDay": 377,
-    "timeWeek": 364,
-    "timeMonth": 350,
-    "timeYear": 398,
+    "timeDay": 369,
+    "timeWeek": 362,
+    "timeMonth": 349,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-09-16": 45,
       "2025-09-17": 550,
@@ -353,7 +353,7 @@
       "2026-08-06": 514,
       "2026-08-07": 712,
       "2026-08-08": 1230,
-      "2026-08-09": 680
+      "2026-08-09": 718
     }
   },
   {
@@ -495,7 +495,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2026-08-09": 1025,
+      "2026-08-09": 1064,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -841,9 +841,9 @@
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "97.47%",
     "time": 914,
     "timeDay": 843,
@@ -851,6 +851,7 @@
     "timeMonth": 830,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2025-12-25": 17,
       "2025-12-26": 65,
       "2025-12-27": 63,
       "2026-01-01": 45,
@@ -930,8 +931,7 @@
       "2026-07-12": 72,
       "2026-07-17": 62,
       "2026-07-23": 112,
-      "2026-08-01": 65,
-      "2026-08-09": 11
+      "2026-08-01": 65
     }
   },
   {
@@ -951,7 +951,7 @@
     "timeMonth": 196,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-08-09": 1025,
+      "2026-08-09": 1065,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
