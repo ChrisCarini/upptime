@@ -12,7 +12,7 @@
     "uptimeYear": "93.02%",
     "time": 1182,
     "timeDay": 380,
-    "timeWeek": 548,
+    "timeWeek": 544,
     "timeMonth": 599,
     "timeYear": 1130,
     "dailyMinutesDown": {
@@ -123,7 +123,7 @@
     "uptimeYear": "99.31%",
     "time": 287,
     "timeDay": 209,
-    "timeWeek": 230,
+    "timeWeek": 221,
     "timeMonth": 238,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -212,7 +212,7 @@
     "uptimeYear": "99.34%",
     "time": 373,
     "timeDay": 298,
-    "timeWeek": 327,
+    "timeWeek": 323,
     "timeMonth": 266,
     "timeYear": 371,
     "dailyMinutesDown": {
@@ -294,19 +294,18 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "78.58%",
-    "uptimeWeek": "44.92%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "45.03%",
     "uptimeMonth": "68.79%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 389,
-    "timeDay": 292,
-    "timeWeek": 361,
+    "timeDay": 304,
+    "timeWeek": 358,
     "timeMonth": 355,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-02-05": 25,
       "2026-02-23": 23,
       "2026-02-24": 271,
       "2026-02-26": 26,
@@ -352,7 +351,7 @@
       "2026-08-11": 616,
       "2026-08-12": 1013,
       "2026-08-13": 629,
-      "2026-08-14": 308
+      "2026-08-14": 309
     }
   },
   {
@@ -368,7 +367,7 @@
     "uptimeYear": "99.37%",
     "time": 467,
     "timeDay": 401,
-    "timeWeek": 416,
+    "timeWeek": 401,
     "timeMonth": 377,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -462,7 +461,7 @@
     "uptimeYear": "0.00%",
     "time": 262,
     "timeDay": 217,
-    "timeWeek": 244,
+    "timeWeek": 237,
     "timeMonth": 185,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -489,7 +488,7 @@
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
-      "2026-08-14": 1408,
+      "2026-08-14": 1427,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -846,7 +845,7 @@
     "uptimeYear": "97.47%",
     "time": 916,
     "timeDay": 858,
-    "timeWeek": 894,
+    "timeWeek": 888,
     "timeMonth": 835,
     "timeYear": 919,
     "dailyMinutesDown": {
@@ -950,7 +949,7 @@
     "timeMonth": 184,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-08-14": 1408,
+      "2026-08-14": 1427,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
