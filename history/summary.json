@@ -4,17 +4,17 @@
     "url": "https://chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/chriscarini.com.ico",
     "slug": "chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "93.01%",
-    "time": 1173,
-    "timeDay": 490,
-    "timeWeek": 457,
-    "timeMonth": 583,
-    "timeYear": 1121,
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "93.00%",
+    "time": 1172,
+    "timeDay": 479,
+    "timeWeek": 458,
+    "timeMonth": 580,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2026-02-13": 65,
       "2026-02-14": 16,
@@ -107,7 +107,7 @@
       "2026-08-14": 48,
       "2026-08-17": 43,
       "2026-08-18": 30,
-      "2026-08-19": 58
+      "2026-08-19": 84
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://jetbrains.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.30%",
     "time": 286,
-    "timeDay": 337,
-    "timeWeek": 205,
-    "timeMonth": 231,
+    "timeDay": 316,
+    "timeWeek": 213,
+    "timeMonth": 233,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2026-02-20": 61,
@@ -197,7 +197,7 @@
       "2026-08-14": 43,
       "2026-08-17": 38,
       "2026-08-18": 25,
-      "2026-08-19": 54
+      "2026-08-19": 80
     }
   },
   {
@@ -205,16 +205,16 @@
     "url": "https://skypi.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.33%",
     "time": 373,
-    "timeDay": 442,
-    "timeWeek": 288,
-    "timeMonth": 267,
+    "timeDay": 405,
+    "timeWeek": 295,
+    "timeMonth": 270,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2026-02-20": 60,
@@ -287,7 +287,7 @@
       "2026-08-14": 38,
       "2026-08-17": 33,
       "2026-08-18": 20,
-      "2026-08-19": 6
+      "2026-08-19": 32
     }
   },
   {
@@ -297,12 +297,12 @@
     "slug": "blog-chriscarini-com",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "73.56%",
+    "uptimeDay": "89.70%",
+    "uptimeWeek": "73.83%",
     "uptimeMonth": "66.24%",
     "uptimeYear": "96.98%",
     "time": 389,
-    "timeDay": 328,
+    "timeDay": 332,
     "timeWeek": 333,
     "timeMonth": 352,
     "timeYear": 395,
@@ -356,9 +356,9 @@
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.36%",
     "time": 466,
     "timeDay": 411,
@@ -441,7 +441,7 @@
       "2026-08-14": 33,
       "2026-08-17": 29,
       "2026-08-18": 16,
-      "2026-08-19": 54
+      "2026-08-19": 80
     }
   },
   {
@@ -479,7 +479,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 496,
+      "2026-08-19": 523,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -835,9 +835,9 @@
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "98.30%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "97.47%",
     "time": 915,
     "timeDay": 346,
@@ -926,7 +926,7 @@
       "2026-08-01": 65,
       "2026-08-14": 24,
       "2026-08-17": 19,
-      "2026-08-19": 53
+      "2026-08-19": 80
     }
   },
   {
@@ -946,7 +946,7 @@
     "timeMonth": 188,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-08-19": 496,
+      "2026-08-19": 523,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
