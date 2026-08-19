@@ -4,17 +4,17 @@
     "url": "https://chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/chriscarini.com.ico",
     "slug": "chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "97.67%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "97.65%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "93.01%",
-    "time": 1171,
-    "timeDay": 479,
-    "timeWeek": 458,
-    "timeMonth": 580,
-    "timeYear": 1120,
+    "time": 1170,
+    "timeDay": 522,
+    "timeWeek": 471,
+    "timeMonth": 581,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2026-02-14": 16,
       "2026-02-15": 16,
@@ -106,7 +106,7 @@
       "2026-08-14": 48,
       "2026-08-17": 43,
       "2026-08-18": 30,
-      "2026-08-19": 113
+      "2026-08-19": 116
     }
   },
   {
@@ -114,15 +114,15 @@
     "url": "https://jetbrains.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/jetbrains.chriscarini.com.ico",
     "slug": "jetbrains-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.30%",
     "time": 287,
-    "timeDay": 316,
-    "timeWeek": 213,
+    "timeDay": 291,
+    "timeWeek": 215,
     "timeMonth": 233,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
       "2026-08-14": 43,
       "2026-08-17": 38,
       "2026-08-18": 25,
-      "2026-08-19": 105
+      "2026-08-19": 107
     }
   },
   {
@@ -204,15 +204,15 @@
     "url": "https://skypi.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/skypi.chriscarini.com.ico",
     "slug": "skypi-chriscarini-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.33%",
     "time": 373,
-    "timeDay": 405,
-    "timeWeek": 295,
+    "timeDay": 358,
+    "timeWeek": 292,
     "timeMonth": 270,
     "timeYear": 369,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
       "2026-08-14": 38,
       "2026-08-17": 33,
       "2026-08-18": 20,
-      "2026-08-19": 52
+      "2026-08-19": 54
     }
   },
   {
@@ -297,7 +297,7 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "89.70%",
-    "uptimeWeek": "74.50%",
+    "uptimeWeek": "74.53%",
     "uptimeMonth": "66.24%",
     "uptimeYear": "96.98%",
     "time": 389,
@@ -355,9 +355,9 @@
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "89.73%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.34%",
     "time": 466,
     "timeDay": 411,
@@ -440,7 +440,7 @@
       "2026-08-14": 33,
       "2026-08-17": 29,
       "2026-08-18": 16,
-      "2026-08-19": 148
+      "2026-08-19": 151
     }
   },
   {
@@ -478,7 +478,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 591,
+      "2026-08-19": 594,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -834,9 +834,9 @@
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "89.75%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "97.45%",
     "time": 915,
     "timeDay": 346,
@@ -925,7 +925,7 @@
       "2026-08-01": 65,
       "2026-08-14": 24,
       "2026-08-17": 19,
-      "2026-08-19": 148
+      "2026-08-19": 151
     }
   },
   {
@@ -945,7 +945,7 @@
     "timeMonth": 188,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-08-19": 591,
+      "2026-08-19": 594,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
