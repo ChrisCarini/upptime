@@ -1,7 +1,7 @@
 url: https://blog.chriscarini.com
-status: up
-code: 200
-responseTime: 312
-lastUpdated: 2026-08-31T20:13:36.528Z
+status: down
+code: 429
+responseTime: 445
+lastUpdated: 2026-08-31T23:54:17.036Z
 startTime: 2020-12-26T11:59:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
