@@ -13,7 +13,7 @@
     "time": 1123,
     "timeDay": 350,
     "timeWeek": 486,
-    "timeMonth": 566,
+    "timeMonth": 562,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2026-02-20": 18,
@@ -128,7 +128,7 @@
     "time": 283,
     "timeDay": 154,
     "timeWeek": 243,
-    "timeMonth": 258,
+    "timeMonth": 256,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2026-02-24": 86,
@@ -224,7 +224,7 @@
     "time": 368,
     "timeDay": 218,
     "timeWeek": 297,
-    "timeMonth": 315,
+    "timeMonth": 313,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2026-02-24": 105,
@@ -311,16 +311,16 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "84.25%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "95.88%",
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "23.23%",
+    "uptimeWeek": "77.86%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "95.67%",
     "time": 393,
-    "timeDay": 353,
-    "timeWeek": 342,
-    "timeMonth": 383,
+    "timeDay": 222,
+    "timeWeek": 328,
+    "timeMonth": 382,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2026-07-27": 220,
@@ -361,7 +361,8 @@
       "2026-09-24": 340,
       "2026-09-25": 299,
       "2026-09-27": 487,
-      "2026-09-28": 1
+      "2026-09-29": 25,
+      "2026-09-28": 1081
     }
   },
   {
@@ -370,15 +371,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/flask-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
     "status": "down",
-    "uptime": "92.76%",
+    "uptime": "92.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.43%",
+    "uptimeYear": "88.22%",
     "time": 459,
     "timeDay": 275,
     "timeWeek": 379,
-    "timeMonth": 395,
+    "timeMonth": 396,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2026-01-29": 20,
@@ -456,7 +457,8 @@
       "2026-08-14": 33,
       "2026-08-17": 29,
       "2026-08-18": 16,
-      "2026-09-28": 361,
+      "2026-09-29": 26,
+      "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -516,7 +518,8 @@
     "timeMonth": 176,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-09-28": 361,
+      "2026-09-29": 26,
+      "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -879,8 +882,7 @@
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
-      "2025-09-30": 1440,
-      "2025-09-29": 1440
+      "2025-09-30": 1440
     }
   },
   {
@@ -889,15 +891,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "down",
-    "uptime": "91.58%",
+    "uptime": "91.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.54%",
+    "uptimeYear": "86.33%",
     "time": 894,
     "timeDay": 268,
     "timeWeek": 389,
-    "timeMonth": 409,
+    "timeMonth": 406,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2025-12-27": 63,
@@ -981,7 +983,8 @@
       "2026-08-01": 65,
       "2026-08-14": 24,
       "2026-08-17": 19,
-      "2026-09-28": 361,
+      "2026-09-29": 26,
+      "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -1038,10 +1041,11 @@
     "time": 237,
     "timeDay": 82,
     "timeWeek": 175,
-    "timeMonth": 189,
-    "timeYear": 229,
+    "timeMonth": 186,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-09-28": 361,
+      "2026-09-29": 26,
+      "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -1404,8 +1408,7 @@
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
-      "2025-09-30": 1440,
-      "2025-09-29": 1440
+      "2025-09-30": 1440
     }
   }
 ]
