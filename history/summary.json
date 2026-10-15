@@ -316,16 +316,16 @@
     "url": "https://blog.chriscarini.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.chriscarini.com.ico",
     "slug": "blog-chriscarini-com",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "53.50%",
-    "uptimeWeek": "61.06%",
-    "uptimeMonth": "72.69%",
-    "uptimeYear": "95.20%",
-    "time": 416,
-    "timeDay": 369,
-    "timeWeek": 377,
-    "timeMonth": 614,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "28.06%",
+    "uptimeWeek": "55.90%",
+    "uptimeMonth": "70.58%",
+    "uptimeYear": "95.02%",
+    "time": 415,
+    "timeDay": 329,
+    "timeWeek": 383,
+    "timeMonth": 609,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2026-08-06": 502,
@@ -372,7 +372,8 @@
       "2026-10-11": 849,
       "2026-10-12": 1055,
       "2026-10-13": 938,
-      "2026-10-14": 113
+      "2026-10-14": 1011,
+      "2026-10-15": 25
     }
   },
   {
@@ -381,16 +382,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/flask-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "flask-over-fastcgi-demo-chriscarini-com",
     "status": "down",
-    "uptime": "90.27%",
+    "uptime": "90.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.01%",
+    "uptimeYear": "83.83%",
     "time": 459,
     "timeDay": 415,
     "timeWeek": 369,
     "timeMonth": 397,
-    "timeYear": 459,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2026-01-29": 20,
       "2026-01-30": 28,
@@ -467,7 +468,8 @@
       "2026-08-14": 33,
       "2026-08-17": 29,
       "2026-08-18": 16,
-      "2026-10-14": 543,
+      "2026-10-15": 26,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -541,9 +543,10 @@
     "timeDay": 286,
     "timeWeek": 186,
     "timeMonth": 185,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-10-14": 543,
+      "2026-10-15": 26,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -906,8 +909,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   },
   {
@@ -916,11 +918,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastapi-over-fastcgi.demo.chriscarini.com.ico",
     "slug": "fastapi-over-fastcgi-demo-chriscarini-com",
     "status": "down",
-    "uptime": "89.12%",
+    "uptime": "89.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.12%",
+    "uptimeYear": "81.94%",
     "time": 886,
     "timeDay": 370,
     "timeWeek": 380,
@@ -1008,7 +1010,8 @@
       "2026-08-01": 65,
       "2026-08-14": 24,
       "2026-08-17": 19,
-      "2026-10-14": 543,
+      "2026-10-15": 27,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -1084,7 +1087,8 @@
     "timeMonth": 195,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-10-14": 543,
+      "2026-10-15": 27,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -1447,8 +1451,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   }
 ]
